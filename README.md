@@ -79,5 +79,3 @@ python-analytics-books/
 ![NumPy](https://img.shields.io/badge/NumPy-1.x-013243?logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Polars](https://img.shields.io/badge/Polars-0.x-CD792A?logo=rust&logoColor=white)
-
-## 📁 Структура репозитория
