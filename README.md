@@ -1,4 +1,4 @@
-# 📚 Python Analytics Exercises
+# 📚 Python Analytics Exercises by Books
 
 [Русская версия ниже](#русская-версия)
 
