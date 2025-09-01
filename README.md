@@ -1,4 +1,4 @@
-# 📚 Python Analytics Exercises
+# 📚 Python Analytics Exercises by Books
 
 [Русская версия ниже](#русская-версия)
 
@@ -40,7 +40,7 @@ python-analytics-books/
 ├── 📂 data-analysis-mckinney/         # Код из книги 3
 ├── 📂 polars-guide/                   # Примеры из книги 4
 ├── 📂 datasets/                       # Учебные datasets
-└── 📜 requirements.txt               # Зависимости проекта
+└── 📜 requirements.txt                # Зависимости проекта
 ```
 
 # 📚 Упражнения по Python для аналитики
@@ -79,5 +79,3 @@ python-analytics-books/
 ![NumPy](https://img.shields.io/badge/NumPy-1.x-013243?logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Polars](https://img.shields.io/badge/Polars-0.x-CD792A?logo=rust&logoColor=white)
-
-## 📁 Структура репозитория
